@@ -35,13 +35,13 @@ INSERT INTO Usuarios(Email,Senha) VALUES('test@gmail.com', '1234')
 
 select * from Usuarios
 
-INSERT INTO Classes VALUES('Bárbaro', 'Descrição do Bárbaro')
-INSERT INTO Habilidade VALUES('Lança Mortal'), ('Escudo Supremo')
+INSERT INTO Classes VALUES('BÃ¡rbaro', 'DescriÃ§Ã£o do BÃ¡rbaro')
+INSERT INTO Habilidade VALUES('LanÃ§a Mortal'), ('Escudo Supremo')
 INSERT INTO Personagens VALUES('DeuBug', 1, 1)
 INSERT INTO ClasseHabilidade VALUES(1, 1), (1, 2)
 
 INSERT INTO Usuarios(Email,Senha) VALUES('email2@gmail.com', '123456')
-INSERT INTO Classes VALUES('Monge', 'Descrição do Monge')
+INSERT INTO Classes VALUES('Monge', 'DescriÃ§Ã£o do Monge')
 INSERT INTO Habilidade VALUES('Recupera Vida')
 INSERT INTO Personagens VALUES('BitBug', 2, 2)
 INSERT INTO ClasseHabilidade VALUES(2, 2), (2, 3)
